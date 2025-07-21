@@ -1,0 +1,16 @@
+============================================================
+DYNAMODB MIGRATION SUMMARY REPORT
+============================================================
+Migration Date: 2025-07-21 11:58:51
+Duration: 1.14 seconds
+
+RESULTS:
+✅ Successfully processed: 10 records
+❌ Failed to process: 0 records
+📊 Success rate: 100.00%
+
+CONFIGURATION:
+CSV File: migratecsv/2024-02-22_everything-latest-export-2.csv
+DynamoDB Table: 20240222transactionsall
+AWS Region: us-east-2
+Chunk Size: 5

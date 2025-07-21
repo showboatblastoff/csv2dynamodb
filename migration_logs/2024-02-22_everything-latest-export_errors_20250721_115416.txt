@@ -1,0 +1,6 @@
+DynamoDB Migration Error Log
+Started: 2025-07-21 11:54:16
+Source: migratecsv/2024-02-22_everything-latest-export.csv
+Target: 20240222transactionsall
+================================================================================
+
